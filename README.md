@@ -14,7 +14,7 @@ Este proyecto es una API que utiliza PostgreSQL como base de datos y cuenta con 
    Clona el repositorio en tu máquina local.
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/Evangelivm/djangoproject
    cd djangoproject
    ```
 
