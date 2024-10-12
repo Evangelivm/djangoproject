@@ -6,6 +6,7 @@ Este proyecto es una API que utiliza PostgreSQL como base de datos y cuenta con 
 
 - Python 3.12
 - PostgreSQL
+- Django
 
 ## Instalación
 
