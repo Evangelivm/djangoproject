@@ -1,4 +1,4 @@
-# Proyecto API con PostgreSQL y Swagger
+# API de Gestion de Empleados
 
 Este proyecto es una API que utiliza PostgreSQL como base de datos y cuenta con documentación generada automáticamente con Swagger.
 
